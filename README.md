@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
