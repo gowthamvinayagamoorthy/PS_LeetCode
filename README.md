@@ -31,6 +31,7 @@
 | [0125-valid-palindrome](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0009-palindrome-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
