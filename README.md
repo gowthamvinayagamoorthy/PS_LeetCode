@@ -1,11 +1,7 @@
 # PS_LeetCode
 
 # LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0001-two-sum) |
-| [0011-container-with-most-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0011-container-with-most-water) |
+
 
 
 ## Greedy
@@ -46,4 +42,14 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0011-container-with-most-water) |
+| [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
