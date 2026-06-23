@@ -1,7 +1,5 @@
 # PS_LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
@@ -20,4 +18,3 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0011-container-with-most-water) |
-<!---LeetCode Topics End-->
