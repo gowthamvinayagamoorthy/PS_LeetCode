@@ -77,6 +77,7 @@
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -85,6 +86,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
+| [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
