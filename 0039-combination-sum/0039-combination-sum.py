@@ -3,13 +3,9 @@ class Solution:
         res=[]
         p=[]
         def findt(i,s):
-            
             if i>=len(candidates) or s>target:
                 return
-           
             if s==target:
-    
-            
                 res.append(p.copy())
                 return
             p.append(candidates[i])
