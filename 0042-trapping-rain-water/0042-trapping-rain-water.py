@@ -8,7 +8,7 @@ class Solution(object):
         while(i<j):
             lm=max(height[i],lm)
             rm=max(height[j],rm)
-            if height[i]<height[j]:
+            if lm<rm:
                 water+=lm-height[i]
                 i+=1
             else:
