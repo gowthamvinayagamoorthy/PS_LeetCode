@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
@@ -140,4 +142,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0039-combination-sum) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
