@@ -72,6 +72,7 @@
 | [0039-combination-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
