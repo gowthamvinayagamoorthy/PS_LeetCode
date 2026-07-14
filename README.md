@@ -73,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -92,6 +93,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -135,6 +137,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 ## Stack
 |  |
