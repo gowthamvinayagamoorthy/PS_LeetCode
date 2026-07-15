@@ -10,7 +10,6 @@ class Solution:
                 i=j
                 j+=1
                 ar+=1
-                print("90")
             else:
                 j+=1
         return ar
