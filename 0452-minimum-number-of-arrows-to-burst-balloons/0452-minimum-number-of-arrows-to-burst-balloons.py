@@ -3,7 +3,6 @@ class Solution:
         points.sort(key=lambda x:x[1])
         i=0
         j=1
-        print(points)
         ar=1
         while i<len(points) and j<len(points):
             if points[i][1]<points[j][0]:
