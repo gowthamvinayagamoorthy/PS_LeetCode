@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@
 | [0027-remove-element](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -91,6 +93,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
