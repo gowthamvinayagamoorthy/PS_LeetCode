@@ -1,6 +1,7 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        d=defaultdict(int)
+        #d=defaultdict(int)
+        d={}
         i=0
         res=0
         for j in range(len(s)):
