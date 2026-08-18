@@ -85,6 +85,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
@@ -129,6 +130,7 @@
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0518-coin-change-ii) |
 ## Trie
