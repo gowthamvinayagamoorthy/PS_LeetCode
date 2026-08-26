@@ -4,9 +4,9 @@ class Solution:
         col=len(grid[0])
         m=0
         def dfs(x,y):
-            if x<0 or y<0 or x>row-1 or y>col-1 or grid[x][y]=="0" or grid[x][y]=="2":
+            if x<0 or y<0 or x>row-1 or y>col-1 or grid[x][y]=="0":
                 return
-            grid[x][y]="2"
+            grid[x][y]="0"
             dfs(x,y+1)
             dfs(x+1,y)
             dfs(x,y-1)
