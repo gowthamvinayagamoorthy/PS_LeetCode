@@ -28,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -187,6 +189,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
