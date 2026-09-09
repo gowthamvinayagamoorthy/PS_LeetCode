@@ -110,6 +110,7 @@
 | [0523-continuous-subarray-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0994-rotting-oranges) |
@@ -126,6 +127,7 @@
 | [0059-spiral-matrix-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -155,6 +157,7 @@
 | [0198-house-robber](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0518-coin-change-ii) |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Trie
 |  |
@@ -193,6 +196,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0126-word-ladder-ii) |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Combinatorics
@@ -208,6 +212,7 @@
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0994-rotting-oranges) |
 ## Greedy
@@ -238,8 +243,21 @@
 | [0126-word-ladder-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
