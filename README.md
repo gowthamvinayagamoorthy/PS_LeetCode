@@ -36,6 +36,7 @@
 | [0344-reverse-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -105,6 +107,7 @@
 | [0518-coin-change-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0994-rotting-oranges) |
@@ -202,6 +205,7 @@
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0994-rotting-oranges) |
 ## Greedy
@@ -231,6 +235,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
