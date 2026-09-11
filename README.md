@@ -51,6 +51,7 @@
 | [0523-continuous-subarray-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0994-rotting-oranges) |
+| [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 | [1219-path-with-maximum-gold](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -219,6 +221,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0994-rotting-oranges) |
+| [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
+| [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Union-Find
 |  |
 | ------- |
@@ -248,6 +252,7 @@
 | [0127-word-ladder](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
+| [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
