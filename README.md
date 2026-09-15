@@ -65,6 +65,7 @@
 | [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -215,6 +216,7 @@
 | [0127-word-ladder](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Union-Find
@@ -269,4 +272,20 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
