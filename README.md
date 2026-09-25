@@ -219,6 +219,7 @@
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0547-number-of-provinces](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
@@ -236,15 +237,18 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0547-number-of-provinces](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0547-number-of-provinces) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask
 |  |
