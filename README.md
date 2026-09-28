@@ -92,6 +92,7 @@
 | [0027-remove-element](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0057-insert-interval) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0198-house-robber) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Depth-First Search
