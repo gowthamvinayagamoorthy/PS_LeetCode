@@ -29,6 +29,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0126-word-ladder-ii) |
@@ -196,6 +197,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -299,4 +301,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
