@@ -38,6 +38,7 @@
 | [0344-reverse-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@
 | [0198-house-robber](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Trie
@@ -202,6 +204,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -244,6 +247,7 @@
 | [0134-gas-station](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -310,4 +314,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
