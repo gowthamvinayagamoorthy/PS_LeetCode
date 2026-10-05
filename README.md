@@ -40,6 +40,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
+| [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -315,4 +317,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
