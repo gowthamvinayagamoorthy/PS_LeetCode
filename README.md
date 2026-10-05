@@ -41,6 +41,7 @@
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
