@@ -121,6 +121,7 @@
 | [0485-max-consecutive-ones](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
@@ -141,6 +142,7 @@
 | [0048-rotate-image](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -175,6 +177,7 @@
 | [0198-house-robber](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -239,6 +242,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0542-01-matrix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
