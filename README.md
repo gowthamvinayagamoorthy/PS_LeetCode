@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0125-valid-palindrome) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
@@ -224,6 +226,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0039-combination-sum) |
 | [0093-restore-ip-addresses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0126-word-ladder-ii) |
@@ -330,6 +333,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
