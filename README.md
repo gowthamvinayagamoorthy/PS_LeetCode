@@ -47,6 +47,7 @@
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -222,6 +223,7 @@
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
