@@ -48,6 +48,7 @@
 | [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -226,6 +227,7 @@
 | [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -346,6 +349,7 @@
 | [0856-score-of-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String Matching
 |  |
 | ------- |
