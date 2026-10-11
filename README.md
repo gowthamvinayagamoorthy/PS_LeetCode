@@ -143,6 +143,7 @@
 | [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Matrix
 |  |
@@ -378,4 +379,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
