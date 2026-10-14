@@ -82,6 +82,7 @@
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
