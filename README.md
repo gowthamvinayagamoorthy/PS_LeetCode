@@ -65,6 +65,7 @@
 | [0752-open-the-lock](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0752-open-the-lock) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -388,4 +390,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
