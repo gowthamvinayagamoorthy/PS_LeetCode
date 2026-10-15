@@ -2,10 +2,12 @@ class Solution:
     def sumCounts(self, nums: List[int]) -> int:
         n=len(nums)
         res=0
-        
+
         for i in range(n):
-            for j in range(i+1,n+1):
-                res+=len(set(nums[i:j]))**2
+            h=set()
+            for j in range(i,n):
+                h.add(nums[j])
+                res+=len(h)**2
         return res
 
                 
