@@ -66,6 +66,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -212,6 +214,7 @@
 | [0414-third-maximum-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
