@@ -84,6 +84,7 @@
 | [0415-add-strings](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
@@ -143,6 +144,7 @@
 | [1219-path-with-maximum-gold](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -200,6 +202,7 @@
 | [0678-valid-parenthesis-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,6 +309,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0547-number-of-provinces) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -330,6 +335,7 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0773-sliding-puzzle) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heuristic Search
 |  |
 | ------- |
@@ -385,6 +391,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -401,4 +408,20 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
