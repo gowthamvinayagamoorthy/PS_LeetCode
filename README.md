@@ -146,6 +146,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -179,6 +180,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -216,6 +218,7 @@
 | [0268-missing-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
