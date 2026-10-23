@@ -154,6 +154,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -230,6 +231,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
