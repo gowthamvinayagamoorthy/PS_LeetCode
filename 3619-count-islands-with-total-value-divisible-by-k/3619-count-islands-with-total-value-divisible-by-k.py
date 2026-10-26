@@ -1,34 +1,47 @@
-
 class Solution:
     def countIslands(self, grid: List[List[int]], k: int) -> int:
-        n, m = len(grid), len(grid[0])
-        visited = set()
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-        count = 0
 
-        for i in range(n):
-            for j in range(m):
-                if grid[i][j] == 0 or (i, j) in visited:
+        m, n = len(grid), len(grid[0])
+        stack = []
+        ans = 0
+        
+        for r in range(m):
+            for c in range(n):
+                if grid[r][c] == 0:
                     continue
 
-                stack = [(i, j)]
-                visited.add((i, j))
-                total = 0
+                total_val = grid[r][c]
+                grid[r][c] = 0
+                stack.append((r, c))
 
                 while stack:
-                    x, y = stack.pop()
-                    total += grid[x][y]
+                    row, col = stack.pop()
 
-                    for dx, dy in directions:
-                        nx, ny = x + dx, y + dy
+                    new_row = row + 1
+                    if new_row != m and grid[new_row][col] != 0:
+                        stack.append((new_row, col))
+                        total_val += grid[new_row][col]
+                        grid[new_row][col] = 0
 
-                        if (0 <= nx < n and 0 <= ny < m
-                                and grid[nx][ny] != 0
-                                and (nx, ny) not in visited):
-                            visited.add((nx, ny))
-                            stack.append((nx, ny))
+                    new_row = row - 1
+                    if new_row != -1 and grid[new_row][col] != 0:
+                        stack.append((new_row, col))
+                        total_val += grid[new_row][col]
+                        grid[new_row][col] = 0
 
-                if total % k == 0:
-                    count += 1
+                    new_col = col + 1
+                    if new_col != n and grid[row][new_col] != 0:
+                        stack.append((row, new_col))
+                        total_val += grid[row][new_col]
+                        grid[row][new_col] = 0
 
-        return count
+                    new_col = col - 1
+                    if new_col != -1 and grid[row][new_col] != 0:
+                        stack.append((row, new_col))
+                        total_val += grid[row][new_col]
+                        grid[row][new_col] = 0
+
+                if total_val % k == 0:
+                    ans += 1
+
+        return ans
