@@ -51,6 +51,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0980-unique-paths-iii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | [0733-flood-fill](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1036-escape-a-large-maze) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -405,6 +409,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -417,14 +422,17 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gowthamvinayagamoorthy/PS_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
